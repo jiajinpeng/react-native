@@ -1,0 +1,3 @@
+rootProject.name = 'Mogo_RN42'
+
+include ':app'
